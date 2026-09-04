@@ -1,4 +1,4 @@
-![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+![MasterHead](https://github.com/Marvellous-is-cool/Marvellous-is-cool)
 <h1 align="center">Hi 👋, I'm Aseka Kalansooriya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align ="right" alt="coding" width ="400" src ="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
