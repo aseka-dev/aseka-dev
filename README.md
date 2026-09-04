@@ -1,6 +1,6 @@
 <img src="https://as1.ftcdn.net/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg"
      width="100%"
-     height="250px"
+     height="350px"
      alt="MasterHead" />
 <h1 align="center">Hi 👋, I'm Aseka Kalansooriya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
