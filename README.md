@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyznydltdXcmx6BdfG4pdp0S6LCmO4UoQ0OZ8a1oQZ7w&s=10)
+![MasterHead](https://as1.ftcdn.net/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)
 <h1 align="center">Hi 👋, I'm Aseka Kalansooriya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align ="right" alt="coding" width ="400" src ="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
